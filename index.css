@@ -222,13 +222,13 @@ body{
     .menukiri .materi {
         display: none;
         }
-
     .search {
-        width: 20%;
-        margin: auto;
-        }
+        width: 40%;
+        margin-left: 10%;
+    }
     .button {
-        margin: auto;}
+        margin: auto;
+    }
 
     .kotak{
         width: 70%;
