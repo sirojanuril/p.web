@@ -161,7 +161,7 @@ body{
     height: 30px;
     text-align: center;
     z-index: 1;
-    position: relative;
+    /* position: relative; */
     font-family: Segoe UI; 
     font-size: 15px;
 }
